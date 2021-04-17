@@ -176,13 +176,20 @@ We drew sketches and used them to cheaply guide the designs and study users’ r
 
 ![High-Level Architecture](images/High_level_architecture.png)
 
-Describe in brief about your high-level architecture.
-
 <!-- Technical Research -->
 
 ## Technical Research
 
-Summary of your technical research and attach the technical research document.
+The team has researched technologies of building front-end, backend. Generally:
+- We build mainly the App by React Native.
+- We build the dashboard by React JS, Core UI, and React Redux.
+- We build the backend by NodeJS, Express.
+- We build the database by MongoDb.
+- We deploy the backend in AWS.
+- We follow the design guideline of Apple Human Guideline.
+- We use AWS - S3 to store media: images/ video.
+
+<a href="https://docs.google.com/document/d/1uoSC85jO8XEKp7pyPti2xM7suQmj_9P0R7awsHyOghk/edit">Technical Research Document</a>
 
 <!-- Getting Started -->
 
