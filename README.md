@@ -228,25 +228,54 @@ If you have already installed Node on your system, make sure it is Node 10 or ne
 
 ### Installation
 
-1. Get a API Key at [https://example.com](https://example.com)
-2. Clone the repo
-
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-
+1. Download the source code zip file in [here]().
+2. Unzip the file and go to the project folder.
 3. Install NPM packages
 
 ```sh
 npm install
 ```
+4. Install Yarn packages
 
-4. Enter your API in `config.js`
-
-```JS
-const API_KEY = 'ENTER YOUR API';
+```sh
+yarn
 ```
+5. Install podfile
+```
+cd ios & pod install
+```
+6. Start Metro
+```
+npx react-native start
+```
+7. Start your application in simulator by default
+```
+npx react-native run-ios
+```
+8. Run application in a physical device for **Debug mode**(optional)
 
+ - Open project workspace in ios folder by xcode.
+ - Connect your device to computer by using cable.
+ - Choose your project and device to run.
+ - Make sure you signing your Apple developer account in Xcode to build the project.
+
+  ![Signing](src/images/signing.png)
+
+ - Click Play button to build and run the app in your device.
+ - *Note: The app only run in **online mode** since it is not supported offline mode right now.
+
+## Setting up Xcode to run the app in Release mode:
+
+ - Open project workspace in ios folder by xcode.
+ - Connect your device to computer by using cable.
+ - Choose your project and device to run.
+ - To run the app in Release version, Go the edit **Scheme**, uncheck *debug executable*, choose *Release* in **Build configuration**.
+ ![Edit Scheme](src/images/EditScheme.png)
+ ![Build configuration](src/images/release.png)
+ - Click **Play** button to build and run the app in your device.
+ - *Note: The app only run in **online mode** since it is not supported offline mode right now.
+
+![Indigenous Bridge Application](src/images/home.jpg)
 <!-- USAGE EXAMPLES -->
 
 ## Usage
