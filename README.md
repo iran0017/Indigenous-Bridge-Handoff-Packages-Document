@@ -259,7 +259,7 @@ npx react-native run-ios
  - Choose your project and device to run.
  - Make sure you signing your Apple developer account in Xcode to build the project.
 
-  ![Signing](src/images/signing.png)
+  ![Signing](images/signing.png)
 
  - Click Play button to build and run the app in your device.
  - *Note: The app only run in **online mode** since it is not supported offline mode right now.
@@ -270,12 +270,12 @@ npx react-native run-ios
  - Connect your device to computer by using cable.
  - Choose your project and device to run.
  - To run the app in Release version, Go the edit **Scheme**, uncheck *debug executable*, choose *Release* in **Build configuration**.
- ![Edit Scheme](src/images/EditScheme.png)
- ![Build configuration](src/images/release.png)
+ ![Edit Scheme](images/EditScheme.png)
+ ![Build configuration](images/release.png)
  - Click **Play** button to build and run the app in your device.
  - *Note: The app only run in **online mode** since it is not supported offline mode right now.
 
-![Indigenous Bridge Application](src/images/home.jpg)
+![Indigenous Bridge Application](images/home.jpg)
 <!-- USAGE EXAMPLES -->
 
 ## Usage
