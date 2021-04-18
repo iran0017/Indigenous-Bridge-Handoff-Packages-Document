@@ -184,7 +184,7 @@ The team has researched technologies of building front-end, backend. Generally:
 - We build mainly the App by React Native.
 - We build the dashboard by React JS, Core UI, and React Redux.
 - We build the backend by NodeJS, Express.
-- We build the database by MongoDb.
+- We build the database by MongoDb and install in Virtual Machine EC2 of AWS.
 - We deploy the backend in AWS.
 - We follow the design guideline of Apple Human Guideline.
 - We use AWS - S3 to store media: images/ video.
@@ -237,9 +237,50 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+
+<!-- Backend-->
+
+## Backend
+The backend is now running on VM EC2 in AWS. You can see the source code **ONLY in the AWS** due to the security of the backend and database.
+
+## Access to the the backend running on Virtual Machine EC2 in AWS:
+1. Open Terminal
+2. Download [server_keu.pem](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h) to access to the VM.
+3. Navigate to the key location:
+```
+cd [key directory]
+```
+4. [Sign in](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fnc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&forceMobileApp=0&code_challenge=KEVVSl29P-PpwanhslNx0twaq92N5Y2fhSB3EuBL8NQ&code_challenge_method=SHA-256) to AWS with your credentials.
+
+5. Navigate to EC2 -> Instances Running -> Check the box of NBIFC_server machine -> Connect -> SSH Client.
+6. Run those command line in step 3 and 4. Now you are remoting the Virtual Machine EC2.
+7. Go to the backend directory:
+```sh
+cd indigenous-hyperdev-backend/
+```
+![Virtual Machine](images/Virtual_Machine.png)
+
+This is the folder of backend source code. You can also see it, or download to your computer in [google drive](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h)
+
+8. Re-deploy the backend by Docker after modification.
+```sh
+docker build --tag=indigenous:latest .
+
+docker-compose up -d
+```
+
+9. Delete the docker images if needed.
+```sh
+docker images
+
+docker image rm --force [image Id]
+```
+
 <!-- Dashboard -->
 
 ## Admin Dashboard
+
+
 
 <!-- ROADMAP -->
 
