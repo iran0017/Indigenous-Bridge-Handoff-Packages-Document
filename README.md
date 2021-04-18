@@ -315,6 +315,9 @@ We express our gratitude to our instructors for their continued support and enco
 - Miss **Su Cheng Lee** - our professor of Mobile Application Design & Development Programat Algonquin College.
 - **Adesh Shah**- Investigator at the Data Analytics Centre and Part-time Professor in the Mobile Application Design & Development Program at Algonquin College.
 
+<img src="images/su_cheng_lee.jpg" alt="SuCheng" width="80" height="80">
+<img src="images/Adesh.jpg" alt="Adesh" width="80" height="80">
+
 We offer our sincere appreciation for the learning opportunities provided by our instructors.
 
 Our completion of this project could not have been accomplished without the support of our team members - **HyperDev Team**: Dana Iranpanah, Manuel Duong, Minal Patel, Anoj Antu, and Sai Abhishek.
@@ -322,6 +325,7 @@ Thank you for allowing research and develop the applied project.
 
 Finally, to our professional client - **North Bay Indigenous Friendships Center**: our deepest gratitude. Thanks for your collaboration in the project. Your feedback helps us improve our offerings and help troubleshoot for you, so we really appreciate you taking the time.
 
-![Client NBIFC](images/logo.png)
+<img src="images/logo.jpg" alt="NBIFC" width="80" height="80">
+<img src="images/madd.jpg" alt="MADD" width="80" height="80">
 
 
