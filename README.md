@@ -200,13 +200,31 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is a list things you need to use the software and how to install them.
 
-- npm
+##### npm
 
 ```sh
 npm install npm@latest -g
 ```
+##### Xcode & CocoaPods
+Xcode 12.4 [App Store]().
+
+Install an iOS Simulator in Xcode
+
+Install cocoapods 
+```sh
+sudo gem install cocoapods
+```
+##### Node & Watchman
+We recommend installing Node and Watchman using Homebrew. Run the following commands in a Terminal after installing Homebrew:
+```sh
+brew install node
+brew install watchman
+```
+If you have already installed Node on your system, make sure it is Node 10 or newer.
+
+[Documentation](https://reactnative.dev/docs/environment-setup)
 
 ### Installation
 
