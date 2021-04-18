@@ -275,14 +275,18 @@ npx react-native run-ios
  - Click **Play** button to build and run the app in your device.
  - *Note: The app only run in **online mode** since it is not supported offline mode right now.
 
-![Indigenous Bridge Application](images/home.jpg)
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Register an account.
+![Register account](images/register.png)
+2. Login to the App.
+![Login](images/login.png)
+3. Discovery the App.
+<img src="images/home.png" alt="Home"> <img src="images/menu.png" alt="Menu">
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Demo](https://drive.google.com/drive/folders/1_aVNyS89QaNwCq4qkDKGojOqAwhEiAjL)_
 
 
 <!-- Backend-->
