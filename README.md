@@ -53,9 +53,9 @@
 
 ## About The Project
 
-![Product Name Screen Shot](images/logo.png)
-
 Indigenous-Bridge is an iOS app designed and developed for indigenous people who move or live in North Bay to seek various services and connections. The app is developed by hyperdev team at Algonquin College for NBIFC client.
+
+![Product Name Screen Shot](images/project.png)
 
 ### Built With
 
@@ -321,5 +321,7 @@ Our completion of this project could not have been accomplished without the supp
 Thank you for allowing research and develop the applied project.
 
 Finally, to our professional client - **North Bay Indigenous Friendships Center**: our deepest gratitude. Thanks for your collaboration in the project. Your feedback helps us improve our offerings and help troubleshoot for you, so we really appreciate you taking the time.
+
+![Client NBIFC](images/logo.png)
 
 
