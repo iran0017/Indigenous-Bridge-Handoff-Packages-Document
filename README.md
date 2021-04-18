@@ -275,7 +275,8 @@ docker images
 
 docker image rm --force [image Id]
 ```
-You can also see it, or download to your computer in [google drive](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h)
+You can also see the source code, or download it to your computer in [google drive](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h)
+
 <!-- Dashboard -->
 
 ## Admin Dashboard
@@ -286,13 +287,18 @@ You can also see it, or download to your computer in [google drive](https://driv
 
 ## Roadmap
 
-List of Sprint two features (and known issues, if any).
+In next phrase, we will implement those features:
 
-- First item
-- Second item
-- Third item
-- Fourth item
+- Serve API through HTTPS
+- Forgot Password in the app.
+- Chip Filtering items in the app.
+- Change Fontsize in app.
+- User can save items in app.
+- Edit user's profile in app.
+- Organizations rating.
+- Offline handling.
 
+Then we will update the design, development and run the testing.
 <!-- Contact -->
 
 ## Contact
