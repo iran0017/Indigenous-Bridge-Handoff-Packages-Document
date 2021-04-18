@@ -280,9 +280,9 @@ npx react-native run-ios
 ## Usage
 
 1. Register an account.
-<img src="images/register.png" alt="register" width="120" height="200"> 
+<img src="images/register.png" alt="register" width="240" height="320"> 
 2. Login to the App.
-<img src="images/login.png" alt="register" width="120" height="200">
+<img src="images/login.png" alt="register" width="240" height="320">
 3. Discovery the App.
 <img src="images/home.png" alt="Home"  width="480" height="640"> <img src="images/menu.png" alt="Menu"  width="480" height="640">
 
