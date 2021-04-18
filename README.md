@@ -13,11 +13,11 @@
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://drive.google.com/drive/folders/1_aVNyS89QaNwCq4qkDKGojOqAwhEiAjL">View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://docs.google.com/spreadsheets/d/1d0rzOqYTUg8lmaQJNggO1QVCdsouy4Kd5lyFv1D2ack/edit#gid=0">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://docs.google.com/document/d/1MYd7TEaJzSGN-cPxNuaBuihKgYOQSZXMyqdwEfvclFE/edit">Request Feature</a>
   </p>
 </p>
 
@@ -245,7 +245,7 @@ The backend is now running on VM EC2 in AWS. You can see the source code **ONLY 
 
 ## Access to the the backend running on Virtual Machine EC2 in AWS:
 1. Open Terminal
-2. Download [server_keu.pem](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h) to access to the VM.
+2. Download [server_key.pem](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h) to access to the VM.
 3. Navigate to the key location:
 ```
 cd [key directory]
@@ -260,7 +260,7 @@ cd indigenous-hyperdev-backend/
 ```
 ![Virtual Machine](images/Virtual_Machine.png)
 
-This is the folder of backend source code. You can also see it, or download to your computer in [google drive](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h)
+This is the folder of backend source code. 
 
 8. Re-deploy the backend by Docker after modification.
 ```sh
@@ -275,7 +275,7 @@ docker images
 
 docker image rm --force [image Id]
 ```
-
+You can also see it, or download to your computer in [google drive](https://drive.google.com/drive/folders/1x8_nODA5_C6YtPSmfXrJPGeOodMLCM8h)
 <!-- Dashboard -->
 
 ## Admin Dashboard
@@ -297,11 +297,11 @@ List of Sprint two features (and known issues, if any).
 
 ## Contact
 
-**Project Lead:** [Dana Iranpanah](mailto:username@algonquinlive.com)
+**Project Lead:** [Dana Iranpanah](mailto:iran0017@algonquinlive.com)
 
 **Technical Lead:** [Manuel Duong](mailto:duon0060@algonquinlive.com)
 
-**Design Lead:** [Minal Patel](mailto:username@algonquinlive.com)
+**Design Lead:** [Minal Patel](mailto:pate0773@algonquinlive.com)
 
 **UX Designer/ Developer:** [Anoj Antu](mailto:anoj0001@algonquinlive.com)
 
@@ -311,4 +311,15 @@ List of Sprint two features (and known issues, if any).
 
 ## Acknowledgements
 
-Show appreciation to everyone who has helped in the project (including Client and Professors). In acknowledgment, recognize and thank everyone who was involved in this Applied Project. With acknowledgment, you can express gratitude to the people or institution whose contributions were valuable to the success of the project.
+We express our gratitude to our instructors for their continued support and encouragement:
+- Miss **Su Cheng Lee** - our professor of Mobile Application Design & Development Programat Algonquin College.
+- **Adesh Shah**- Investigator at the Data Analytics Centre and Part-time Professor in the Mobile Application Design & Development Program at Algonquin College.
+
+We offer our sincere appreciation for the learning opportunities provided by our instructors.
+
+Our completion of this project could not have been accomplished without the support of our team members - **HyperDev Team**: Dana Iranpanah, Manuel Duong, Minal Patel, Anoj Antu, and Sai Abhishek.
+Thank you for allowing research and develop the applied project.
+
+Finally, to our professional client - **North Bay Indigenous Friendships Center**: our deepest gratitude. Thanks for your collaboration in the project. Your feedback helps us improve our offerings and help troubleshoot for you, so we really appreciate you taking the time.
+
+
