@@ -282,8 +282,11 @@ npx react-native run-ios
 **1. User Authentication**
 <img src="images/Authenticate.png" alt="Authenticate"> 
 
-**2. Discovery the App**
+**2. Discover the App**
 <img src="images/Discover.png" alt="Discover"/>
+
+**3. Highlight features**
+<img src="images/Special Features.png" alt="Special Features"/>
 
 _For more examples, please refer to the [Demo](https://drive.google.com/drive/folders/1_aVNyS89QaNwCq4qkDKGojOqAwhEiAjL)_
 
