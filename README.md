@@ -279,12 +279,11 @@ npx react-native run-ios
 
 ## Usage
 
-1. Register an account.
-<img src="images/register.png" alt="register" width="240" height="320"> 
-2. Login to the App.
-<img src="images/login.png" alt="register" width="240" height="320">
-3. Discovery the App.
-<img src="images/home.png" alt="Home"  width="480" height="640"> <img src="images/menu.png" alt="Menu"  width="480" height="640">
+**1. User Authentication**
+<img src="images/Authenticate.png" alt="Authenticate"> 
+
+**2. Discovery the App**
+<img src="images/Discover.png" alt="Discover"/>
 
 _For more examples, please refer to the [Demo](https://drive.google.com/drive/folders/1_aVNyS89QaNwCq4qkDKGojOqAwhEiAjL)_
 
