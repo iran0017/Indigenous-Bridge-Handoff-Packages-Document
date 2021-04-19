@@ -10,7 +10,7 @@
   <p align="center">
     A deployment document of Indigenous Bridge projects!
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://drive.google.com/drive/folders/1re8AIFtaydBocCOVCp1XsmpCN8tYgTii"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://drive.google.com/drive/folders/1_aVNyS89QaNwCq4qkDKGojOqAwhEiAjL">View Demo</a>
@@ -228,7 +228,7 @@ If you have already installed Node on your system, make sure it is Node 10 or ne
 
 ### Installation
 
-1. Download the source code zip file in [here]().
+1. Download the source code zip file in [here](https://drive.google.com/drive/folders/1KcoqkPXWj0loQZd_kTvkiIV-p18zWvHZ).
 2. Unzip the file and go to the project folder.
 3. Install NPM packages
 
